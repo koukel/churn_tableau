@@ -1,1 +1,11 @@
-# churn_tableau
+# Tableau Dashboard of Customer Churn
+
+## Project Overview
+
+This project is based on a project from my graduate program and altered in order to add to my public portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository. 
+
+In this project I have created a Tableau dashboard to display some key performance indicators in customer churn.
+
+## Necessary Software
+
+The .twbx file must be opened using [Tableau Desktop](https://www.tableau.com/trial/download-tableau?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=DACH&kw=tableau%20desktop%20download&adgroup=CTX-Brand-Download-EN-E&adused=532018312469&matchtype=e&placement=&gclsrc=aw.ds&gclid=Cj0KCQjw5oiMBhDtARIsAJi0qk38YdR-wxIFTpbU30epaErLzkj9fjNfh9yUXQvPAz8gjW0pE9SuyeAaAu59EALw_wcB)  or the free [Tableau Reader](https://www.tableau.com/products/reader) 
