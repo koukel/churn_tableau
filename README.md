@@ -4,7 +4,7 @@
 
 This project is based on a project from my graduate program and altered in order to add to my public portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository. 
 
-In this project I have created a Tableau dashboard to display some key performance indicators in customer churn.
+In this project I have created a Tableau dashboard to display some key performance indicators in customer churn.  The Churn.pdf file shows the dashboard layout, while the Churn.twbx file is the packaged interactive workbook.  A detailed report discussing my process and considerations is given in the Tableau Dashboard and Storytelling Report document.
 
 ## Necessary Software
 
